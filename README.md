@@ -1,2 +1,2 @@
-# 4H1920opdrachtGame
-Voorbeeldcode voor de game opdracht
+# 4H Opdracht Game
+Stukje voorbeeldcode voor de game opdracht
